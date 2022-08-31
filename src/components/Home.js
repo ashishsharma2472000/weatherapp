@@ -54,6 +54,10 @@ const Home = ()=>{
                      <div className="wave -three"></div>
 
 
+                     <div id="weathercon">
+                         <i class='fa-solid fa-cloud' ></i>
+                        </div>
+
 
 
                     </div>
